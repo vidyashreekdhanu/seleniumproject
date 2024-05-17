@@ -8,6 +8,7 @@ public class orgTest {
 	public void createorgTest()
 	{
 		System.out.println("create org");
+	
 	}
 	
 
@@ -16,6 +17,14 @@ public class orgTest {
 	{
 		System.out.println("modifyorgTest org");
 	}
+
+	@Test
+	public void deleteorgTest()
+	{
+		System.out.println("deleteorgTest");
+	
+	}
+	
 
 
 }
