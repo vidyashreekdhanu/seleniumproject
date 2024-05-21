@@ -87,7 +87,7 @@
 
 	  </profile>
 	   <profile>
-		  <id>SR</id>
+		  <id>RT</id>
 		  
 	<build>
 		<plugins>
